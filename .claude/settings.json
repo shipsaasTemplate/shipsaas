@@ -1,0 +1,16 @@
+{
+  "projectName": "ShipSaaS Template",
+  "primaryLanguage": "TypeScript",
+  "description": "Production-ready Next.js SaaS starter kit with Auth, Payments, Database, Email, and Landing Page",
+  "contextFiles": [
+    "CLAUDE.md",
+    "project_context.md"
+  ],
+  "promptFiles": [
+    ".claude/prompts/auth-flow.md",
+    ".claude/prompts/supabase-schema.md",
+    ".claude/prompts/stripe-setup.md",
+    ".claude/prompts/seo-guide.md",
+    ".claude/prompts/component-library.md"
+  ]
+}

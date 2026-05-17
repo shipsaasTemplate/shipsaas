@@ -4,7 +4,7 @@ import { redirect } from "next/navigation";
 import config from "@/lib/config";
 
 // use this to interact with our own API (/app/api folder) from the front-end side
-// See https://shipfa.st/docs/tutorials/api-call
+// See https://shipsaas.dev/docs/features/auth
 const apiClient = axios.create({
   baseURL: "/api",
 });
